@@ -1,0 +1,2 @@
+https://platform.openai.com/api-keys
+ключ для env
